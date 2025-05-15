@@ -13,7 +13,7 @@ from tabulate import tabulate
 
 # === App Initialization ===
 root = tk.Tk()
-root.title("FileFindX")
+root.title("Sortify")
 root.geometry("1200x700")
 
 # === Style Configuration ===
